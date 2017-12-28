@@ -1,0 +1,10 @@
+### thymeleaf reactive
+GET http://localhost:8080
+
+### Route Hi
+GET http://localhost:8080/hi
+
+### item reactive request
+GET http://localhost:8080/item/1
+
+### 
